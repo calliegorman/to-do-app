@@ -1,0 +1,25 @@
+
+div {
+  max-width: 100%;
+}
+
+h2 {
+  color: #4286f4;
+  text-align: center;
+}
+
+.button {
+  color: blue;
+}
+
+#addToDoForm {
+  font-size: 1.3em;
+  color: #4c525b;
+  text-align: center;
+}
+
+#toDoList {
+  font-size: 1.5em;
+  text-align: center;
+
+}
