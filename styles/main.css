@@ -13,13 +13,14 @@ h2 {
 }
 
 #addToDoForm {
-  font-size: 1.3em;
   color: #4c525b;
+  font-size: 1.3em;
   text-align: center;
 }
 
 #toDoList {
-  font-size: 1.5em;
+  color: #4c525b;
+  font-size: 1.3em;
   text-align: center;
-
+  list-style-type: none;
 }
